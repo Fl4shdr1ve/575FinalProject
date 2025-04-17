@@ -1,3 +1,5 @@
+#this is just to convert the data into csv format
+
 import csv
 
 def convert_semicolon_to_comma_csv(input_file, output_file):
